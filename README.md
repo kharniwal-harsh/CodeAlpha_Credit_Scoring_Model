@@ -28,7 +28,7 @@ To set up and run the project locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/shubhambhatia2103/Credit-Scoring-Model.git
+    git clone https://github.com/kharniwal-harsh/Credit_Scoring_Model.git
     ```
 
 2. Navigate to the project directory:
@@ -50,10 +50,4 @@ The decile methodology employed in formulating the lending strategy involves seg
 ## Acknowledgements
 Special thanks to Skillcate for providing the educational resources and project materials.
 
-## Contributors
-- [Shubham Bhatia](https://www.linkedin.com/in/shubhambhatia2103/)
 
-
-## Contact
-
-[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](https://www.linkedin.com/in/shubhambhatia2103/) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/shubhambhatia2103) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" title="Instagram">](https://instagram.com/6eingshubham) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/twitter-squared.png" title="Twitter">](https://twitter.com/whoodattboyy)
